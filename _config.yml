@@ -1,0 +1,30 @@
+typography_spectrum: 0.1030060457997024
+color:
+  brandStrength: 0.2920322366990149
+  lightness: 0.19771660747937858
+  saturation: 0.7579326871782541
+  rhythmicContrast: 0.33958213846199214
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+github: true
+layout_spectrum: 0.9423300770577043
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/addee515-f403-4e9a-9fd1-dd2f91a9f97f.png
+name: Ingeniería de Hábitos
+navigation:
+  - name: Clientes
+    id: 188ca4c6-4105-4201-a052-23221132eefc
+    type: content
+  - name: Casos de éxito
+    id: cdc9996b-47ad-4ac5-8fa2-3b4a63d6617f
+    type: content
+title: Elimina los problemas en estrategias de cambio
+description: Domina el poder de los hábitos
+purpose:
+  - type: contact
+    url: 'mailto:info@undiaextra.com'
+    label: Contáctanos para conocer más...
